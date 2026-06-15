@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El álbum más vendido de la historia.",
+    "descripcion": "Álbum de Michael Jackson que redefinió la música pop de los años 80. Producido por Quincy Jones, incluye éxitos como Billie Jean, Beat It y Thriller."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "dark-side.avif",
+    "slug": "dark-side-of-the-moon",
+    "resumen": "Obra maestra del rock progresivo.",
+    "descripcion": "Álbum conceptual de Pink Floyd que explora temas como la avaricia, el conflicto, el tiempo y la muerte. Permaneció 741 semanas en las listas de Billboard."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "slug": "abbey-road",
+    "resumen": "El último álbum grabado por The Beatles.",
+    "descripcion": "Abbey Road es el undécimo álbum de estudio de The Beatles. Es conocido por su icónica portada y el medley final que cierra el disco."
+  },
+  {
+    "titulo": "Kind of Blue",
+    "artista": "Miles Davis",
+    "genero": "Jazz",
+    "anio": 1959,
+    "sello": "Columbia",
+    "pistas": 5,
+    "imagen": "kind-of-blue.avif",
+    "slug": "kind-of-blue",
+    "resumen": "El álbum de jazz más influyente de todos los tiempos.",
+    "descripcion": "Kind of Blue es un álbum de estudio del músico estadounidense de jazz Miles Davis. Es considerado una obra maestra del jazz modal y uno de los álbumes más influyentes de la historia."
+  },
+  {
+    "titulo": "Back to Black",
+    "artista": "Amy Winehouse",
+    "genero": "Soul",
+    "anio": 2006,
+    "sello": "Island",
+    "pistas": 11,
+    "imagen": "back-to-black.avif",
+    "slug": "back-to-black",
+    "resumen": "Segundo y último álbum de Amy Winehouse.",
+    "descripcion": "Back to Black es un álbum que fusiona soul, R&B y jazz con letras autobiográficas sobre relaciones turbulentas. Ganó 5 premios Grammy."
+  },
+  {
+    "titulo": "Random Access Memories",
+    "artista": "Daft Punk",
+    "genero": "Electronic",
+    "anio": 2013,
+    "sello": "Columbia",
+    "pistas": 13,
+    "imagen": "random-access-memories.avif",
+    "slug": "random-access-memories",
+    "resumen": "Álbum de Daft Punk con sonido retro-futurista.",
+    "descripcion": "Random Access Memories es el cuarto álbum de estudio de Daft Punk. El disco rinde homenaje a la música de los años 70 y 80, con colaboraciones de Giorgio Moroder, Pharrell Williams y Nile Rodgers."
+  }
+]
