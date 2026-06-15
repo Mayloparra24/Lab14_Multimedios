@@ -1,0 +1,23 @@
+{
+  "name": "discostore-api",
+  "version": "1.0.0",
+  "description": "API REST para catálogo de álbumes musicales - DiscoStore",
+  "main": "index.js",
+  "type": "module",
+  "packageManager": "pnpm@10.32.1",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "createdb": "node data/createdb.js"
+  },
+  "keywords": ["api", "rest", "albumes", "musica", "sqlite", "express"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
